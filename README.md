@@ -1,5 +1,5 @@
 # restaurant-rating-prediction
-Machine learning project to predict restaurant customer ratings using Python, XGBoost, and ensemble models.
+A machine learning project using real-world Zomato data to predict restaurant customer ratings with Python, XGBoost, Linear Regression, and ensemble modeling. Includes feature analysis, model comparison, and business insights.
 # 🍽️ Restaurant Customer Rating Prediction Project
 
 A machine learning project to predict restaurant customer ratings using Python and Google Colab. This project explores the impact of key business features and applies multiple regression models to forecast customer satisfaction.
@@ -124,4 +124,4 @@ From a data scientist's perspective, this model can support businesses in the fo
 
 ## 🤝 Contact
 
-Feel free to connect on [LinkedIn](https://linkedin.com/in/yourname) or open an issue for feedback or collaboration.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/tuğba-bayar-100811151?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxRUzNC3SRBuMdWT9PaXPhg%3D%3D) or open an issue for feedback or collaboration.
